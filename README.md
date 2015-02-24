@@ -1,6 +1,6 @@
 # UrbanGrowth
 
-After reading the paper from Bettencourt et. al. ([2007][1]), I set out to analyze the correlation between BIP(GDP), BWS(GVA) and population density in German cities.
+After reading the paper from Bettencourt et. al. [#bettencourt:2007aa], I set out to analyze the correlation between BIP(GDP), BWS(GVA) and population density in German cities.
 
 ## Software
 
@@ -9,4 +9,4 @@ The Project uses [ProjectTemplate](http://www.projecttemplate.net/). If you have
 
 
 # Reference
-[1]: Bettencourt, L. M. A., Lobo, J., Helbing, D., Kühnert, C., & West, G. B. (2007). Growth, innovation, scaling, and the pace of life in cities. (E. Ostrom, Ed.)Proceedings of the National Academy of Sciences of the United States of America, 104, 7301–7306. doi:10.1073/pnas.0610172104
+[#bettencourt:2007aa]: Bettencourt, L. M. A., Lobo, J., Helbing, D., Kühnert, C., & West, G. B. (2007). Growth, innovation, scaling, and the pace of life in cities. (E. Ostrom, Ed.)Proceedings of the National Academy of Sciences of the United States of America, 104, 7301–7306. doi:10.1073/pnas.0610172104
